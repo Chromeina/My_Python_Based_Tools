@@ -7,6 +7,7 @@ Some tools written in python for future ease.
 
 Written in Python3.9
 
+
 ## LRC_Extract.py
 用來抽出音樂檔案內嵌歌詞的程式，我手邊的一些音樂檔可以正常運作，但不一定適用於所有內嵌歌詞。
 
@@ -19,3 +20,13 @@ After execute, enter the path containing the music file, it will process and out
 目前只有加入Flac與MP3檔案的判斷。
 
 Now only include Flac and MP3 extension type support.
+
+
+## YoutubeImg.py
+用來下載Youtube影片封面的程式。
+
+Tool for download thumbnail from Youtube video.
+
+開啟後輸入Youtube影片網址就可以了。
+
+Execute and paste the video link, it will save the thumbnail into a folder.
