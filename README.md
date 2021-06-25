@@ -16,3 +16,6 @@ It can extract lyrics inside the music file, works for me, but might not work pr
 
 After execute, enter the path containing the music file, it will process and output lyrics file with .lrc extension.
 
+目前只有加入Flac與MP3檔案的判斷。
+
+Now only include Flac and MP3 extension type support.
